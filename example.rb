@@ -22,5 +22,4 @@ module Resource
   end
 end
 
-Hydra::Router.routes.compress
 Hydra::Router.routes.dump
